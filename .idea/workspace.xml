@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be7e0b2-30dd-4371-929c-a8b166c14c06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/3rdpartylicenses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/assets/icons/basket3-fill.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/assets/icons/bookmark-heart-fill.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/assets/icons/house-fill.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/assets/icons/person-fill.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/assets/icons/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/assets/images/bottles.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/assets/images/hand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/assets/images/profileBanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/assets/images/profileIcon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/main-ZAMRSPB6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/polyfills-LZBJRJJE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front-end/browser/styles-ERRLHU2V.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontEnd/node_modules/rijs.resdir/node_modules/fsevents/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/node_modules/rijs.resdir/node_modules/fsevents/build/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontEnd/node_modules/rijs.resdir/node_modules/fsevents/build/Release/fse.node" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/node_modules/rijs.resdir/node_modules/fsevents/build/Release/fse.node" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontEnd/node_modules/rijs.resdir/node_modules/fsevents/build/config.gypi" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/node_modules/rijs.resdir/node_modules/fsevents/build/config.gypi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontEnd/node_modules/uws/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/node_modules/uws/build/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontEnd/node_modules/uws/build/config.gypi" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/node_modules/uws/build/config.gypi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/azure-static-web-apps-ashy-sky-0bf78790f.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/azure-static-web-apps-ashy-sky-0bf78790f.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +24,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="updatingNPM" />
-                    <option name="lastUsedInstant" value="1702077408" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1702077758" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1702077349" />
+                    <option name="branchName" value="updatingNPM" />
+                    <option name="lastUsedInstant" value="1702077408" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="updatingNode" />
@@ -107,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702074421548</updated>
-      <workItem from="1702074423910" duration="3119000" />
+      <workItem from="1702074423910" duration="3432000" />
     </task>
     <servers />
   </component>
