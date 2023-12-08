@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0be7e0b2-30dd-4371-929c-a8b166c14c06" name="Changes" comment="" />
+    <list default="true" id="0be7e0b2-30dd-4371-929c-a8b166c14c06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/frontEnd/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="addingNodeModules" />
+                    <option name="lastUsedInstant" value="1702076575" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
                     <option name="lastUsedInstant" value="1702074974" />
@@ -73,11 +79,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702074421548</updated>
-      <workItem from="1702074423910" duration="1828000" />
+      <workItem from="1702074423910" duration="2032000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
