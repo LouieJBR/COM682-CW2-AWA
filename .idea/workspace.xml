@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0be7e0b2-30dd-4371-929c-a8b166c14c06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/azure-static-web-apps-ashy-sky-0bf78790f.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/azure-static-web-apps-ashy-sky-0bf78790f.yml" afterDir="false" />
-    </list>
+    <list default="true" id="0be7e0b2-30dd-4371-929c-a8b166c14c06" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702074421548</updated>
-      <workItem from="1702074423910" duration="1451000" />
+      <workItem from="1702074423910" duration="1828000" />
     </task>
     <servers />
   </component>
