@@ -10,7 +10,6 @@ import {HomeComponent} from './components/home/home.component';
 import {AuthModule} from "@auth0/auth0-angular";
 import {HeaderComponent} from "./components/header/header.component";
 import {FooterComponent} from './components/footer/footer.component';
-import {LoginComponent} from './components/login/login.component';
 import {RegisterComponent} from './components/register/register.component';
 import {WishlistComponent} from './components/wishlist/wishlist.component';
 import { UploadComponent } from './components/upload/upload.component';
@@ -40,10 +39,10 @@ var routes: any = [
   //   path: 'posts/users/:userID',
   //   component: PostByUserComponent
   // },
-  {
-    path: 'login',
-    component: LoginComponent
-  }
+  // {
+  //   path: 'login',
+  //   component: LoginComponent
+  // }
 ];
 
 @NgModule({
